@@ -1,0 +1,12 @@
+{
+  "name": "curiosity-killed-the-matt",
+  "version": "1.0.0",
+  "scripts": {
+    "prettier": "prettier --write .",
+    "husky": "husky install"
+  },
+  "devDependencies": {
+    "prettier": "^3.4.2",
+    "husky": "^8.0.0"
+  }
+}
